@@ -1,1 +1,3 @@
-[Rsschool-cv](https://nihtsvoron.github.io/rsschool-cv/cv)
+[https://nihtsvoron.github.io/rsschool-cv/cv](https://nihtsvoron.github.io/rsschool-cv/cv)
+
+[https://nihtsvoron.github.io/rsschool-cv](https://nihtsvoron.github.io/rsschool-cv)
